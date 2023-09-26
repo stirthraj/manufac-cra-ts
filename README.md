@@ -2,17 +2,22 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-# Here is Output Page
+# Here is Output Page and Live URL: https://manufac.ioberg.com/
 
 ### `Flavanoids Table`
-   ![alt text](public/one.png)
+   ![alt text](public/Flavanoid.png)
 
 ### `Gamma Table`
-   ![alt text](public/two.png)
+   ![alt text](public/Gamma.png)
 
 ## Available Scripts
 
 In the project directory, you can run:
+
+# Get Clone in your System
+### yarn install
+
+To downlaod all modules to run this application.
 
 ### `yarn start`
 
